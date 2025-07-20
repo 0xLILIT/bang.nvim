@@ -8,8 +8,8 @@ This is a WIP and my first Neovim plugin, so expect bugs and rough edges.
 ## Installation
 No configuration needed as of yet (will probably be added in the future).
 
+### lazy.nvim
 ```lua
--- lazy.nvim
 {
   "yuki9k/bang.nvim",
   opts = {}
