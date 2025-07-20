@@ -22,9 +22,9 @@ No configuration needed as of yet (will probably be added in the future).
 - `:BangClearAll` Clears all commands for all buffers
 
 ## Examples
-`:BangAdd so` Source the file (useful for when working on configs or colorschemes)
-`:BangAdd !cp % expand('%:p:r') .. '_copy.' .. expand('%:e')` Creates a copy of the file next to the original
-`:BangAdd tsc` Runs the typescript compiler inside the root directory (The directory where you opened Neovim from)
+- `:BangAdd so` Source the file (useful for when working on configs or colorschemes)
+- `:BangAdd !cp % expand('%:p:r') .. '_copy.' .. expand('%:e')` Creates a copy of the file next to the original
+- `:BangAdd tsc` Runs the typescript compiler inside the root directory (The directory where you opened Neovim from)
 
 ## TODO
 - Remove a specific command from the current buffer
