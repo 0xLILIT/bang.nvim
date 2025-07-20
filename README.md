@@ -28,3 +28,4 @@ No configuration needed as of yet (will probably be added in the future).
 
 ## TODO
 - Remove a specific command from the current buffer
+- List buffers and commands
