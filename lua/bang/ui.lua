@@ -1,4 +1,3 @@
-local debug = require("bang.debug")
 local util = require("bang.util")
 local Popup = require("nui.popup")
 local Menu = require("nui.menu")
