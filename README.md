@@ -17,7 +17,7 @@ No configuration as of yet (will be added in the future).
 ```
 
 ## Usage
-- `:Bang {command}` Open Bang
+- `:Bang` Open Bang
 
 ## TODO
 - Edit entries
