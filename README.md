@@ -1,5 +1,5 @@
 # Bang.nvim
-Bang lets you set up global or buffer-local autocommands from within your current neovim session.
+Bang lets you configure global or buffer-local autocommands from within your current neovim session.
 Commands are as of now bound to your current session, meaning they are removed when Neovim is closed.
 
 ## Important
