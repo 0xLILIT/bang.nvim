@@ -12,6 +12,7 @@ No configuration as of yet (will be added in the future).
 ```lua
 {
   "yuki9k/bang.nvim",
+  dependencies= {"MunifTanjim/nui.nvim"},
   opts = {}
 }
 ```
