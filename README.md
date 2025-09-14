@@ -6,12 +6,10 @@ Commands are as of now bound to your current session, meaning they are removed w
 This is a WIP and my first Neovim plugin, so expect bugs and rough edges.
 
 ## Installation
-No configuration as of yet (will be added in the future).
-
 ### lazy.nvim
 ```lua
 {
-  "yuki9k/bang.nvim",
+  "0xLILIT/bang.nvim",
   dependencies= {"MunifTanjim/nui.nvim"},
   opts = {}
 }
@@ -20,7 +18,7 @@ No configuration as of yet (will be added in the future).
 ## Usage
 - `:Bang` Open Bang
 
-## TODO
+## TODO (If I feel like it)
 - Edit entries
 - Save/load presets
 - Add more events
