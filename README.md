@@ -9,7 +9,7 @@ This is a WIP and my first Neovim plugin, so expect bugs and rough edges.
 ### lazy.nvim
 ```lua
 {
-  "0xLILIT/bang.nvim",
+  "frxja/bang.nvim",
   dependencies= {"MunifTanjim/nui.nvim"},
   opts = {}
 }
